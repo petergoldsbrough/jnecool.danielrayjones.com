@@ -24,7 +24,7 @@ email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Temukan panduan lengkap bermain Bandar Togel Online, tips menang, dan pilih agen terpercaya. Nikmati sensasi judi online dengan peluang besar!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://jnecool.danielrayjones.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://jnecool.funfix.org" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: 'assets/img/favicon.png'
 logo: 'assets/img/logo.png'
 twitter_username: jekyllrb
